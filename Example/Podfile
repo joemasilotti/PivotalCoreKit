@@ -1,0 +1,8 @@
+target 'App' do
+  pod 'PivotalCoreKit/Core'
+end
+
+target 'Spec' do
+  pod 'PivotalCoreKit/Development'
+end
+
